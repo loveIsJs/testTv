@@ -3,7 +3,7 @@
 //jar是从TG群里扒拉别人分享的，希望大哥们高抬贵嘴
 //感谢巧技大佬/唐三大佬/俊于大佬/以及各位隐姓埋名的大佬
 {
-	"spider": "clan://TVB/ggtv/1.jar",
+	"spider": "https://raw.githubusercontent.com/loveIsJs/testTv/master/1.jar",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
